@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+
 
 profile:
   align: right
@@ -25,5 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am an undergraduate student at MIT Manipal, pursuing Engineering in Mathematics and Computing. My academic interests lie in machine learning and artificial intelligence, with a focus on building data-driven solutions for real-world problems. I enjoy working at the intersection of mathematics, computation, and practical applications, and I am actively developing my skills through projects and collaborative work.
 
+  
 
