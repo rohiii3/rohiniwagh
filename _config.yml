@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  # the website title (if blank, full name will be used instead)
+title: Portfolio # the website title (if blank, full name will be used instead)
 first_name: Rohini
-middle_name: 
+middle_name: D.
 last_name: Wagh
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
