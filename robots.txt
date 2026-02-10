@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rohiniwagh.github.io/al-folio/sitemap.xml
+Sitemap: https://rohiii3.github.io/rohiniwagh//rohiniwagh/sitemap.xml
