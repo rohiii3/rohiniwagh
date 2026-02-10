@@ -11,8 +11,7 @@ cv:
     - network: LinkedIn
       username: rohini-wagh-b632a621b/
 
-  address:
-    Place:Manipal Institute of Technology
+  address: Place:Manipal Institute of Technology
     city:Manipal
     region:Karnataka
     postalCode:CA 94115
@@ -27,14 +26,12 @@ cv:
         studyType: Undergradute Education
         start_date: 2025
         end_date: 2029
-      
+
         score: ""
         courses: "Mathematic and Computing"
         highlights:
-          - 
-          - 
-
-      
+          -
+          -
 
     Experience:
       - company: PBKMS
@@ -42,30 +39,28 @@ cv:
         location: Madhyamgram,Kolkata
         start_date: May 2023
         end_date: August 2023
-        summary: 
+        summary:
           - Collaborative data analysis for public welfare initiatives
           - Social Impact
 
       -
     Volunteer:
-      - 
+      -
 
     Awards:
       - title: .
         authors:
-          - 
-        date: 
-        awarder: 
-        url: 
-        summary: 
-
-      
+          -
+        date:
+        awarder:
+        url:
+        summary:
 
     Publications:
 
     Skills:
       - name: Programming
-        level: Intermediate 
+        level: Intermediate
         icon: fa-solid fa-hashtag
         keywords: Python,Java,C,OOP using Java
 
@@ -78,22 +73,15 @@ cv:
 
       - name: Hindi
         summary: "Native Speaker"
-      
-    
 
     Interests:
       - name: Machine learning & AI
         icon: fa-solid fa-tag
-        keywords: 
+        keywords:
       - Name: Quantum Computing
-
-    
 
     Certificates:
       -name: Scout and Guide Rajyapuraskar
 
-
     Projects:
     name: /n
-      
-
