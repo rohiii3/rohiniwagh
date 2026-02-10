@@ -11,5 +11,5 @@ collection: books
 >
 > -- Emily Dickinson
 
-## Books that I am reading, or will read
+## Books that I am reading, or will read in future
 
