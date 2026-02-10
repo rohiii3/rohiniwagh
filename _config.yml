@@ -91,8 +91,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: The Learning Curve # blog_name will be displayed in your blog page
+blog_description: Welcome to The Learning Curve. I’m an engineering student figuring out how to balance complex equations with actual life. This blog is my open journal—a place where I break down technical concepts, question the ethics of technology, and share the lessons I learn (usually the hard way). Because in engineering, the slope of progress isn't always linear.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -163,7 +163,7 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
