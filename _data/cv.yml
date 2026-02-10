@@ -13,10 +13,10 @@ cv:
 
   address:
     Place:Manipal Institute of Technology
-    city: Manipal
-    region: Karnataka
-    postalCode: CA 94115
-    countryCode: IND
+    city:Manipal
+    region:Karnataka
+    postalCode:CA 94115
+    countryCode:IND
 
   sections:
     Education:
